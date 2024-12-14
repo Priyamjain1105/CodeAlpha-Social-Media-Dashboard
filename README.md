@@ -128,8 +128,8 @@ Special thanks to everyone who contributed to this project and made it a success
 
 Have questions or feedback? Feel free to reach out!
 
-📩 **Email:** your-email@example.com  
-🌐 **GitHub:** [your-username](https://github.com/your-username)  
+📩 **Email:** priyam.23bai11158@vitbhopal.ac.in 
+🌐 **GitHub:** https://github.com/Priyamjain1105 
 
 ---
 
