@@ -78,13 +78,15 @@ Welcome to the **Social Media Dashboard**! This project is a simple yet effectiv
 ## 🖼️ Screenshots
 
 1. **Login Page:**
-   ![Login Page](https://via.placeholder.com/600x300?text=Login+Page+Screenshot)
+   ![image](https://github.com/user-attachments/assets/767efa47-fa83-42a8-bbdd-dddaf5e356d6)
 
 2. **Register Page:**
-   ![Register Page](https://via.placeholder.com/600x300?text=Register+Page+Screenshot)
+ ![image](https://github.com/user-attachments/assets/89632b5b-497a-47d5-ad6f-1fdb5e62192b)
+
 
 3. **Dashboard:**
-   ![Dashboard](https://via.placeholder.com/600x300?text=Dashboard+Screenshot)
+   ![image](https://github.com/user-attachments/assets/7389012a-f47a-4606-bd85-2f01df926a43)
+
 
 ---
 
