@@ -2,7 +2,8 @@
 
 Welcome to the **Social Media Dashboard**! This project is a simple yet effective web application that allows users to register, log in, and enjoy a smooth social media-like experience. Built with **HTML**, **CSS**, and **JavaScript**, this dashboard combines modern web technologies to provide seamless functionality and validation. 🌐✨
 
-![Dashboard Animation](https://media.giphy.com/media/3o7TKsQnPO7EwlsGdy/giphy.gif)
+![image](https://github.com/user-attachments/assets/7a0123ef-ef2f-4ec3-baaf-0806231e2ca7)
+
 
 ---
 
