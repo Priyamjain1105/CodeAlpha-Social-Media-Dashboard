@@ -49,7 +49,8 @@ Welcome to the **Social Media Dashboard**! This project is a simple yet effectiv
 
 3. Launch the `index.html` file in your browser to explore the dashboard!
 
-   ![Preview](https://via.placeholder.com/600x300?text=Screenshot+of+Login+Page)
+   https://priyamjain1105.github.io/CodeAlpha-Social-Media-Dashboard/
+)
 
 ---
 
@@ -61,14 +62,16 @@ Welcome to the **Social Media Dashboard**! This project is a simple yet effectiv
 3. Password must meet the required security standards.
 4. Submit the form to create your account.
 
-![Sign Up](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![image](https://github.com/user-attachments/assets/89632b5b-497a-47d5-ad6f-1fdb5e62192b)
+
+
 
 ### 🚪 **Login**
 1. Enter your registered email and password.
 2. Incorrect credentials will prompt a warning message. ⚠️
 3. On successful login, you will be redirected to the dashboard.
 
-![Login](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
+![image](https://github.com/user-attachments/assets/767efa47-fa83-42a8-bbdd-dddaf5e356d6)
 
 ---
 
